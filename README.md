@@ -22,8 +22,6 @@ media-toolbox/
 
 ├── main.py
 
-├── ensure_ffmpeg.py
-
 ├── requirements.txt
 
 ├── README.md
@@ -31,6 +29,8 @@ media-toolbox/
 └── utils/
 
 ├── init.py
+
+├── ensure_ffmpeg.py
 
 ├── video_utils.py
 
